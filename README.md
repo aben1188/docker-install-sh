@@ -6,11 +6,11 @@
 
 1、不建议以root用户来安装docker，应以拥有sudo权限的普通用户来安装；
 
-2、本脚本适用于CentOS 7，其他操作系统供参考；
+2、本脚本适用于CentOS 7，其他操作系统微测试，仅供参考；
 
 3、本脚本会同时安装docker-compose；
 
-4、本脚本参考自：https://zhuanlan.zhihu.com/p/35705290，感谢原作者。
+4、本脚本参考自：https://zhuanlan.zhihu.com/p/35705290 ，感谢原作者。
 
 
    
